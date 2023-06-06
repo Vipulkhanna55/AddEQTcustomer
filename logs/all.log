@@ -1,0 +1,24 @@
+2023-06-06 15:22:48:2248 http: POST /createExchange 200 18 - 62.783 ms
+
+2023-06-06 15:23:44:2344 http: POST /creatExchange 404 153 - 0.805 ms
+
+2023-06-06 15:47:04:474 http: POST /createExchange 200 18 - 59.128 ms
+
+2023-06-06 16:52:24:5224 http: POST /createExchange 200 37 - 59.746 ms
+
+2023-06-06 16:54:41:5441 http: POST /createExchange 200 37 - 60.691 ms
+
+2023-06-06 16:55:23:5523 http: POST /createExchange 200 37 - 50.665 ms
+
+2023-06-06 17:15:17:1517 http: POST /createExchange 200 37 - 57.457 ms
+
+2023-06-06 17:15:24:1524 http: POST /createExchange 200 37 - 47.111 ms
+
+2023-06-06 17:32:02:322 http: POST /createExchange 200 37 - 53.710 ms
+
+2023-06-06 17:47:56:4756 http: POST /createExchange 200 37 - 49.594 ms
+
+2023-06-06 17:48:40:4840 http: POST /createExchange 200 37 - 52.861 ms
+
+2023-06-06 17:49:11:4911 http: POST /createExchange 200 37 - 51.828 ms
+
